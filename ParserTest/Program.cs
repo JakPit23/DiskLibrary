@@ -1,6 +1,6 @@
 ﻿using DLCF_Parser;
 
-string filePath = "C:\\Users\\janpi\\Desktop\\test.dlfc";
+string filePath = "test.dlfc";
 Parser parser = new Parser();
 
 try
