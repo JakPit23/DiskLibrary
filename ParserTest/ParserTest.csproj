@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="test.dlfc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="test.dlfc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DLCF_Parser\DLCF_Parser.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DLCF_Parser">
+      <HintPath>..\DLCF_Parser\bin\Release\net7.0\DLCF_Parser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
