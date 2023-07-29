@@ -1,0 +1,12 @@
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\bin\Debug\net7.0\DLCF_Parser.deps.json
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\bin\Debug\net7.0\DLCF_Parser.dll
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\bin\Debug\net7.0\DLCF_Parser.pdb
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.csproj.AssemblyReference.cache
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.AssemblyInfoInputs.cache
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.AssemblyInfo.cs
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.csproj.CoreCompileInputs.cache
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.dll
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\refint\DLCF_Parser.dll
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\DLCF_Parser.pdb
+C:\Users\janpi\source\repos\DiskLibrary\DLCF_Parser\obj\Debug\net7.0\ref\DLCF_Parser.dll
