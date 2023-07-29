@@ -1,5 +1,4 @@
 ﻿using DLCF_Parser;
-
 string filePath = "test.dlfc";
 Parser parser = new Parser();
 
