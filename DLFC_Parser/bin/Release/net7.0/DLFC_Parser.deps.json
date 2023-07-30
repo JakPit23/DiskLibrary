@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DLCF_Parser/1.0.0": {
+      "DLFC_Parser/1.0.0": {
         "runtime": {
-          "DLCF_Parser.dll": {}
+          "DLFC_Parser.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DLCF_Parser/1.0.0": {
+    "DLFC_Parser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

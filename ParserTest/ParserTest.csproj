@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DLCF_Parser\DLCF_Parser.csproj" />
+    <ProjectReference Include="..\DLFC_Parser\DLFC_Parser.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace DLCF_Parser
+namespace DLFC_Parser
 {
     public class Parser
     {
@@ -26,7 +26,7 @@ namespace DLCF_Parser
             {
                 string line = lines[i].Trim();
 
-                if (string.IsNullOrEmpty(line) || line.StartsWith("#"))
+                if (string.IsNullOrEmpty(line) || line.StartsWith("&"))
                 {
                     continue;
                 }

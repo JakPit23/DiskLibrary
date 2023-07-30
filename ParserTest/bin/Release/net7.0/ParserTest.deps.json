@@ -8,19 +8,15 @@
     ".NETCoreApp,Version=v7.0": {
       "ParserTest/1.0.0": {
         "dependencies": {
-          "DLCF_Parser": "1.0.0",
-          "DLCF_Parser.Reference": "1.0.0.0"
+          "DLFC_Parser": "1.0.0"
         },
         "runtime": {
           "ParserTest.dll": {}
         }
       },
-      "DLCF_Parser.Reference/1.0.0.0": {
+      "DLFC_Parser/1.0.0": {
         "runtime": {
-          "DLCF_Parser.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "DLFC_Parser.dll": {}
         }
       }
     }
@@ -31,8 +27,8 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DLCF_Parser.Reference/1.0.0.0": {
-      "type": "reference",
+    "DLFC_Parser/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     }

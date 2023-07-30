@@ -1,0 +1,6 @@
+DLFC Parser is owned by its creator Jakub Pitner and it is protected by Mozilla Public License 2.0
+
+DLFC Parser (next time only parser) is very simple and easy to use.
+Parser has only one public function ParseFile() with one parameter path, which is string.
+!!! Path must be specified, if it is used for one file manually, in this format C:\\path\\path\\file.dlfc.
+You need to use double backslash (\\) or double slash (//) because of C# 
