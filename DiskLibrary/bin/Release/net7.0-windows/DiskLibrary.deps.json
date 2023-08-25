@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DiskLibrary/1.0.0": {
+        "dependencies": {
+          "DLFC_Parser": "1.0.0"
+        },
+        "runtime": {
+          "DiskLibrary.dll": {}
+        }
+      },
+      "DLFC_Parser/1.0.0": {
+        "runtime": {
+          "DLFC_Parser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DiskLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DLFC_Parser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserTest", "ParserTest\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLFC_Parser", "DLFC_Parser\DLFC_Parser.csproj", "{FA5A6946-790A-4EE6-9417-FD2DE71E559C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiskLibrary", "DiskLibrary\DiskLibrary.csproj", "{6EB41CA4-CFA1-40C7-BC28-65302FBAE7B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FA5A6946-790A-4EE6-9417-FD2DE71E559C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA5A6946-790A-4EE6-9417-FD2DE71E559C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA5A6946-790A-4EE6-9417-FD2DE71E559C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EB41CA4-CFA1-40C7-BC28-65302FBAE7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB41CA4-CFA1-40C7-BC28-65302FBAE7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB41CA4-CFA1-40C7-BC28-65302FBAE7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB41CA4-CFA1-40C7-BC28-65302FBAE7B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
