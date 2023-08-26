@@ -28,6 +28,8 @@ namespace DiskLibrary
         private void TextBlock_PreviewMouseDown(object sender, MouseButtonEventArgs e)
         {
             MessageBox.Show("TextBox Clicked", "DiskLibrary Debug Message", MessageBoxButton.OK, MessageBoxImage.Information, MessageBoxResult.None);
+            AddNewDisk newDiskForm = new AddNewDisk();
+            newDiskForm.ShowDialog();
         }
     }
 }
